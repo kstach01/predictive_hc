@@ -8,11 +8,9 @@ To get started, you can open this colab:
 [https://colab.research.google.com/drive/1YT3DXfVUsEU46efCY4xRiqKNDa3DPsWY?usp=sharing
 ](url)
 
-The colab is self-contained, with code in the collapsible cells. 
+The colab is self-contained, with code in the collapsable cells, and should not require installation of any additional packages. The colab is read-only: to make your own edits, make a copy.
 
-To make your own edits, make a copy.
-
-You can also download it as a jupyter notebook by clonding this repo.
+You can also download it as a jupyter notebook by cloning this repo.
 
 # Citations
 To cite this work, use:

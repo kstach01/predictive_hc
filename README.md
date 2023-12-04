@@ -6,7 +6,7 @@ Code for generating simulations from Stachenfeld, Botvinick, & Gershman (2017).
 
 To get started, you can open this colab:
 [https://colab.research.google.com/drive/1YT3DXfVUsEU46efCY4xRiqKNDa3DPsWY?usp=sharing
-](url)
+](https://colab.research.google.com/drive/1YT3DXfVUsEU46efCY4xRiqKNDa3DPsWY?usp=sharing)
 
 The colab is self-contained, with code in the collapsable cells, and should not require installation of any additional packages. The colab is read-only: to make your own edits, make a copy.
 
